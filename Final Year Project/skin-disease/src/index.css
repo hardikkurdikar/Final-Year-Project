@@ -1,0 +1,6 @@
+body {
+  background-image: url('C:/Users/acer/Desktop/Final Year Project/skin-disease/public/img.jpg'); /* Replace with the actual file path of your image */
+  background-size: cover;
+  /* backdrop-filter: blur(1px);  */
+  overflow: hidden; 
+}
